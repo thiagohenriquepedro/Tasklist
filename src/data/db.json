@@ -1,0 +1,77 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "title": "Mercado "
+    },
+    {
+      "id": 2,
+      "title": "Trabalho"
+    },
+    {
+      "id": 3,
+      "title": "Acampamento"
+    },
+    {
+      "id": 4,
+      "title": "Pescaria"
+    },
+    {
+      "id": 5,
+      "title": "casa"
+    },
+    {
+      "id": 7,
+      "title": "carro"
+    },
+    {
+      "id": 8,
+      "title": "academia"
+    },
+    {
+      "id": 9,
+      "title": "bibioteca"
+    },
+    {
+      "id": 10,
+      "title": "ds"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 2,
+      "listId": 1,
+      "title": "Comprar feijão"
+    },
+    {
+      "id": 3,
+      "listId": 1,
+      "title": "Comprar Açúcar"
+    },
+    {
+      "id": 6,
+      "listId": 4,
+      "title": "Comprar anzóis"
+    },
+    {
+      "id": 7,
+      "listId": 2,
+      "title": "5225"
+    },
+    {
+      "id": 8,
+      "listId": 2,
+      "title": "casa"
+    },
+    {
+      "id": 10,
+      "listId": 3,
+      "title": "casa"
+    },
+    {
+      "id": 11,
+      "listId": 10,
+      "title": "as"
+    }
+  ]
+}
