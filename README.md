@@ -40,6 +40,3 @@ Run `npm run backend` for a backend with JSON Server before start application. N
 `Está conectado a internet para carregar os link das fontes externas`.
 
 
-
-
-# Tasklist
